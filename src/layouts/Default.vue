@@ -43,7 +43,9 @@
           <div>Altyapı: 
             <a href="https://gridsome.org/" class="text-white hover:text-gray-400 font-normal">Gridsome</a> |
             Tema: 
-            <a href="https://github.com/drehimself/gridsome-portfolio-starter" class="text-white hover:text-gray-400 font-normal">drehimself</a>
+            <a href="https://github.com/drehimself/gridsome-portfolio-starter" class="text-white hover:text-gray-400 font-normal">drehimself</a> |
+            Logo:
+            <a href="http://portfolio-huseyinyasar.weebly.com/" class="text-white hover:text-gray-400 font-normal">Hüseyin Yaşar</a>
           </div>
           <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" class="text-white hover:text-gray-400 font-normal" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" class="text-white hover:text-gray-400 font-normal" title="Flaticon">www.flaticon.com</a>
           </div>
