@@ -11,7 +11,7 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Page Not Found'
+    title: 'Sayfa bulunamadı'
   }
 }
 </script>

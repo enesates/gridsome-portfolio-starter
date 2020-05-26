@@ -1,5 +1,5 @@
 ---
-title: Kanalıma Hoşgeldiniz1
+title: Kanalıma Hoşgeldiniz
 path: /kanalima-hosgeldiniz
 date: 2020-05-21
 summary: Pek yakında

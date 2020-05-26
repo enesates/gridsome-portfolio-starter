@@ -3,8 +3,8 @@
     <header class="header bg-orange-300">
       <nav class="container mx-auto flex flex-wrap justify-between items-center py-6">
         <div>
-          <g-link v-if="theme === 'theme-light'" to="/"><g-image src="../../static/logo.png" class="w-24" alt="logo" /></g-link>
-          <g-link v-else to="/"><g-image src="../../static/logo.png" class="w-24" alt="logo" /></g-link>
+          <g-link v-if="theme === 'theme-light'" to="/"><g-image src="../../static/logo.png" class="w-16" alt="logo" /></g-link>
+          <g-link v-else to="/"><g-image src="../../static/logo.png" class="w-16" alt="logo" /></g-link>
         </div>
         <div class="block lg:hidden">
           <button @click="toggle" class="flex items-center px-3 py-2 border rounded border-gray-500 hover:text-gray-600 hover:border-gray-600">
@@ -17,11 +17,14 @@
         >
           
           <li>
-            <a v-if="$route.path === '/'" href="/#portfolio" v-scroll-to="'#portfolio'" class="text-copy-primary hover:text-gray-600">Portfolio</a>
-            <g-link v-else to="/#portfolio" class="text-copy-primary hover:text-gray-600">Portfolio</g-link>
+            <a v-if="$route.path === '/'" href="/#hakkimda" v-scroll-to="'#hakkimda'" class="text-copy-primary hover:text-gray-600">Hakkımda</a>
+            <g-link v-else to="/#hakkimda" class="text-copy-primary hover:text-gray-600">Hakkımda</g-link>
           </li>
           <li>
             <g-link to="/blog" class="text-copy-primary hover:text-gray-600">Blog</g-link>
+          </li>
+          <li>
+            <g-link to="/en" class="text-copy-primary hover:text-gray-600">EN</g-link>
           </li>
           <li>
             <theme-switcher :theme="theme" @themeChanged="updateTheme" />
@@ -41,6 +44,8 @@
             <a href="https://gridsome.org/" class="text-white hover:text-gray-400 font-normal">Gridsome</a> |
             Tema: 
             <a href="https://github.com/drehimself/gridsome-portfolio-starter" class="text-white hover:text-gray-400 font-normal">drehimself</a>
+          </div>
+          <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" class="text-white hover:text-gray-400 font-normal" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" class="text-white hover:text-gray-400 font-normal" title="Flaticon">www.flaticon.com</a>
           </div>
           <div>
             <a href="/rss.xml" class="text-white hover:text-gray-400 font-normal">RSS</a> |

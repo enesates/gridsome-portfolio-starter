@@ -43,7 +43,7 @@
 
     <div class="overflow-x-hidden">
       <div class="projects container-inner mx-auto text-xl border-t border-gray-500 border-b py-16 mb-16 relative">
-        <h2 class="font-bold mb-6" id="projects">Bazı yayın ve çalışmalarım:</h2>
+        <h2 class="font-bold mb-6" id="projects">Here are some projects I've worked on:</h2>
 
         <div class="absolute right-0" style="top: 50px; transform: translate(100%) rotate(180deg)">
           <svg width="170px" height="170px"><use xlink:href="#dots-triangle" /></svg>
@@ -52,11 +52,11 @@
         <ul class="text-lg sm:text-xl space-y-6">
           <li class="checkmark">
             <div>Salesforce Certified B2C Commerce Developer</div>
-            <div class="text-lg text-gray-600">2016'dan beri <a href="https://wittycommerce.com/">WittyCommerce</a> (Emakina Group üyesi) bünyesinde e-ticaret platformları için backend developer olarak çalışıyorum.</div>
+            <div class="text-lg text-gray-600">I have been working as a backend developer in the e-commerce projects in <a href="https://wittycommerce.com/">WittyCommerce</a> (Epart of makina Group) company since 2016.</div>
           </li>
           <li class="checkmark">
             <div>Area-priority-based Sensor Deployment Optimisation with Priority Estimation Using K-Means (IET Communications, 11(7):1082–1090, 2017)</div>
-            <div class="text-lg text-gray-600">Yüksek lisans eğitimim süresinde üzerinde çalıştığım tez konumla ilgili yayınlanmış olan makalem. <a href="https://digital-library.theiet.org/content/journals/10.1049/iet-com.2016.1264">Buradan</a> erişebilirsiniz.</div>
+            <div class="text-lg text-gray-600">It's a paper which I worked on during my MSc studies. You can find it <a href="https://digital-library.theiet.org/content/journals/10.1049/iet-com.2016.1264">here</a>.</div>
           </li>
         </ul>
       </div> <!-- end projects -->
@@ -71,8 +71,9 @@
         <div class="flex flex-col sm:flex-row justify-between items-center mb-16">
           <div><g-image src="../../static/avatar.png" alt="avatar" class="w-32 h-32 rounded-full mb-8 lg:mb-0" /></div>
           <div class="flex-1 text-lg sm:text-xl ml-6">
-            Benimle iletişime geçmek isterseniz sosyal medya hesaplarımdan (<a href="https://twitter.com/enesatesimov">Twitter</a>, <a href="https://www.linkedin.com/in/enesates/">LinkedIn</a>) bana ulaşabilir ya da yazılara yorum bırakabilirsiniz.
-            Ayrıca beni <a href="https://github.com/enesates">Github</a> ve <a href="https://www.goodreads.com/enesates">Goodreads</a> üzerinden de takip edebilir, akademik çalışmalarımı <a href=" https://scholar.google.com/citations?user=LlwteK0AAAAJ&hl=en">Google Scholar'da</a> inceleyebilirsiniz.
+            If you want to contact me, please find me on <a href="https://twitter.com/enesatesimov">Twitter</a> or <a href="https://www.linkedin.com/in/enesates/">LinkedIn</a>.
+            I also have <a href="https://github.com/enesates">Github</a> and <a href="https://www.goodreads.com/enesates">Goodreads</a> accounts.
+            My publications are available in <a href=" https://scholar.google.com/citations?user=LlwteK0AAAAJ&hl=en">Google Scholar</a>.
           </div>
         </div>
       </div> <!-- end get-to-know me -->
@@ -84,7 +85,7 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Hakkımda'
+    title: 'About'
   }
 }
 </script>
