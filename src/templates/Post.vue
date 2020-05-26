@@ -16,7 +16,13 @@
       <div class="mb-8">
         <g-link to="/blog" class="font-bold">Geri Dön</g-link>
       </div>
+
+      <div>
+        <vue-disqus shortname="enesates" :identifier="$page.post.title"></vue-disqus>
+      </div>
+
     </div>
+
   </Layout>
 </template>
 
