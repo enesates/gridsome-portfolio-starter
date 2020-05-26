@@ -38,7 +38,7 @@
 }
 
 .theme-dark {
-  --bg-background-primary: #0D2438;
+  --bg-background-primary: rgb(31, 46, 56);
   --bg-background-secondary: #102C44;
   --bg-background-tertiary: #1E3951;
 
@@ -48,6 +48,10 @@
   --text-copy-secondary: #e2e8f0;
 
   --border-border-color-primary:  #1a202c;
+}
+
+.theme-dark .header {
+  background: rgb(31, 46, 56);
 }
 
 .theme-dark .markdown-body {
