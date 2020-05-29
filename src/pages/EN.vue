@@ -11,15 +11,14 @@
 
     <div class="container-inner mx-auto">
       <p class="text-lg sm:text-xl">
-        Merhaba, ben Enes. İzmir'de yaşayan bir bilgisayar mühendisiyim.
-        Şimdiye kadar hep backend developer olarak çalışmış olsam da son dönemde frontend teknolojilerini de öğrenmeye çalışıyorum.
-        Bu vesileyle <a href="https://vuejs.org/">Vue.js</a> ile tanıştım ve blogumu açtım.
-        Şu anda Salesforce Commerce Cloud platformu ile e-ticaret sitesi projeleri yaptığım bir işteyim. Aynı zamanda makine öğrenmesi alanında doktora çalışması yapıyorum.
-        Özgür yazılım felsefesini destekliyor elimden geldiğince bu fikri yaymaya çalışıyorum.
+        Hi, I am a software engineer from Izmir (Turkey).
+        I have been working in a company that develops e-commerce sites by using Salesforce Commerce Cloud.
+        I am a backend developer but learning the frontend technologies such as <a href="https://vuejs.org/">Vue.js</a> recently and really interested in free software philosophy.
+        My PhD study on machine learning field still continues.
       </p>
       <p class="text-lg sm:text-xl pt-6">
-        Kendime ayırdığım vakitlerde mümkün olduğunca kitap okuyup spor yapmaya senelerdir oynayamadığım bilgisayar oyunlarını oynayıp bitirmeye çalışıyorum.
-        Birkaç sene önce Lindy Hop dansıyla tanıştım ve düzenli olarak dans ediyorum. Ayrıca bir diğer hobime de zaman ayırmaya başlayabildim ve tiyatro eğitimi alıyorum, amatör olarak tiyatroyla ilgileniyorum.
+        Reading books (mostly science fiction) and riding bicycle are the things make me very happy since my childhood. Nowadays, I try to finish the video games that are waiting on my Steam Library for years.
+        I met the Lindy Hop dance a few years ago and love dancing. I am also an amateur theatre player :)
       </p>
 
       <div class="flex justify-between items-center py-8">
@@ -72,7 +71,7 @@
           <div><g-image src="../../static/avatar.png" alt="avatar" class="w-32 h-32 rounded-full mb-8 lg:mb-0" /></div>
           <div class="flex-1 text-lg sm:text-xl ml-6">
             If you want to contact me, please find me on <a href="https://twitter.com/enesatesimov">Twitter</a> or <a href="https://www.linkedin.com/in/enesates/">LinkedIn</a>.
-            I also have <a href="https://github.com/enesates">Github</a> and <a href="https://www.goodreads.com/enesates">Goodreads</a> accounts.
+            I also have a <a href="https://github.com/enesates">Github</a> account. If you have some advices about books contact me via <a href="https://www.goodreads.com/enesates">Goodreads</a>.
             My publications are available in <a href=" https://scholar.google.com/citations?user=LlwteK0AAAAJ&hl=en">Google Scholar</a>.
           </div>
         </div>

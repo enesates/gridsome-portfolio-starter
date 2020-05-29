@@ -18,7 +18,7 @@
         Özgür yazılım felsefesini destekliyor elimden geldiğince bu fikri yaymaya çalışıyorum.
       </p>
       <p class="text-lg sm:text-xl pt-6">
-        Kendime ayırdığım vakitlerde mümkün olduğunca kitap okuyup spor yapmaya senelerdir oynayamadığım bilgisayar oyunlarını oynayıp bitirmeye çalışıyorum.
+        Kendime ayırdığım vakitlerde mümkün olduğunca kitap okuyup bisiklet sürmeye, senelerdir oynayamadığım bilgisayar oyunlarını oynayıp bitirmeye çalışıyorum.
         Birkaç sene önce Lindy Hop dansıyla tanıştım ve düzenli olarak dans ediyorum. Ayrıca bir diğer hobime de zaman ayırmaya başlayabildim ve tiyatro eğitimi alıyorum, amatör olarak tiyatroyla ilgileniyorum.
       </p>
 
