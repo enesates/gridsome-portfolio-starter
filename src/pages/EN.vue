@@ -13,11 +13,12 @@
       <p class="text-lg sm:text-xl">
         Hi, I am a software engineer from Izmir (Turkey).
         I have been working in a company that develops e-commerce sites by using Salesforce Commerce Cloud.
-        I am a backend developer but learning the frontend technologies such as <a href="https://vuejs.org/">Vue.js</a> recently and really interested in free software philosophy.
-        My PhD study on machine learning field still continues.
+        I am a backend developer but learning the frontend technologies such as <a href="https://vuejs.org/">Vue.js</a> recently and interested in free software philosophy.
+        My PhD study in the machine learning field still continues.
       </p>
       <p class="text-lg sm:text-xl pt-6">
-        Reading books (mostly science fiction) and riding bicycle are the things make me very happy since my childhood. Nowadays, I try to finish the video games that are waiting on my Steam Library for years.
+        Reading books (mostly science fiction) and riding a bicycle are things that make me very happy since my childhood.
+        Nowadays, I try to finish the video games that are waiting in my Steam library for years.
         I met the Lindy Hop dance a few years ago and love dancing. I am also an amateur theatre player :)
       </p>
 
