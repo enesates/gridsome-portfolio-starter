@@ -17,8 +17,7 @@
         >
           
           <li>
-            <a v-if="$route.path === '/'" href="/#hakkimda" v-scroll-to="'#hakkimda'" class="text-copy-primary hover:text-gray-600">Hakkımda</a>
-            <g-link v-else to="/#hakkimda" class="text-copy-primary hover:text-gray-600">Hakkımda</g-link>
+            <g-link to="/" class="text-copy-primary hover:text-gray-600">Hakkımda</g-link>
           </li>
           <li>
             <g-link to="/blog" class="text-copy-primary hover:text-gray-600">Blog</g-link>
