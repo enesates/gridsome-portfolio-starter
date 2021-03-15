@@ -11,10 +11,10 @@
 
     <div class="container-inner mx-auto">
       <p class="text-lg sm:text-xl">
-        Merhaba, ben Enes. İzmir'de yaşayan bir bilgisayar mühendisiyim.
+        Merhaba, ben Enes. Berlin'de yaşayan bir bilgisayar mühendisiyim.
         Şimdiye kadar hep backend developer olarak çalışmış olsam da son dönemde frontend teknolojilerini de öğrenmeye çalışıyorum.
         Bu vesileyle <a href="https://vuejs.org/">Vue.js</a> ile tanıştım ve blogumu açtım.
-        Şu anda Salesforce Commerce Cloud platformu ile e-ticaret sitesi projeleri yaptığım bir işteyim. Aynı zamanda makine öğrenmesi alanında doktora çalışması yapıyorum.
+        Şu anda Salesforce Commerce Cloud platformu ile e-ticaret sitesi projeleri yaptığım bir işteyim. Aynı zamanda makine öğrenmesi alanında akademik çalışmalar yapıyorum.
         Özgür yazılım felsefesini destekliyor elimden geldiğince bu fikri yaymaya çalışıyorum.
       </p>
       <p class="text-lg sm:text-xl pt-6">
@@ -52,7 +52,7 @@
         <ul class="text-lg sm:text-xl space-y-6">
           <li class="checkmark">
             <div>Salesforce Certified B2C Commerce Developer</div>
-            <div class="text-lg text-gray-600">2016'dan beri <a href="https://wittycommerce.com/">WittyCommerce</a> (Emakina Group üyesi) bünyesinde e-ticaret platformları için backend developer olarak çalışıyorum.</div>
+            <div class="text-lg text-gray-600">2021'den beri Dept Commerce bünyesinde e-ticaret platformları üzerine backend developer olarak çalışıyorum.</div>
           </li>
           <li class="checkmark">
             <div>Area-priority-based Sensor Deployment Optimisation with Priority Estimation Using K-Means (IET Communications, 11(7):1082–1090, 2017)</div>
