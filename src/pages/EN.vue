@@ -12,8 +12,8 @@
     <div class="container-inner mx-auto">
       <p class="text-lg sm:text-xl">
         Hi, I am a software engineer from Berlin.
-        I have been working in a company that develops e-commerce sites by using Salesforce Commerce Cloud.
-        I am a backend developer but learning the frontend technologies such as <a href="https://vuejs.org/">Vue.js</a> recently and interested in free software philosophy.
+        I am working in a company that develops e-commerce sites by using Salesforce Commerce Cloud.
+        I am a backend developer but also learning frontend technologies such as <a href="https://vuejs.org/">Vue.js</a> recently and am interested in free software philosophy.
         At the same time, I do academic research in the machine learning field.  
       </p>
       <p class="text-lg sm:text-xl pt-6">
