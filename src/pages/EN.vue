@@ -11,10 +11,10 @@
 
     <div class="container-inner mx-auto">
       <p class="text-lg sm:text-xl">
-        Hi, I am a software engineer from Izmir (Turkey).
+        Hi, I am a software engineer from Berlin.
         I have been working in a company that develops e-commerce sites by using Salesforce Commerce Cloud.
         I am a backend developer but learning the frontend technologies such as <a href="https://vuejs.org/">Vue.js</a> recently and interested in free software philosophy.
-        My PhD study in the machine learning field still continues.
+        At the same time, I do academic research in the machine learning field.  
       </p>
       <p class="text-lg sm:text-xl pt-6">
         Reading books (mostly science fiction) and riding a bicycle are things that make me very happy since my childhood.
@@ -52,7 +52,7 @@
         <ul class="text-lg sm:text-xl space-y-6">
           <li class="checkmark">
             <div>Salesforce Certified B2C Commerce Developer</div>
-            <div class="text-lg text-gray-600">I have been working as a backend developer in the e-commerce projects in <a href="https://wittycommerce.com/">WittyCommerce</a> (Epart of makina Group) company since 2016.</div>
+            <div class="text-lg text-gray-600">I have been working as a backend developer in the e-commerce projects in Dept Commerce since 2021.</div>
           </li>
           <li class="checkmark">
             <div>Area-priority-based Sensor Deployment Optimisation with Priority Estimation Using K-Means (IET Communications, 11(7):1082–1090, 2017)</div>
